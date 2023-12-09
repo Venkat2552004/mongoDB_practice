@@ -14,6 +14,7 @@ git push origin - push all commited changes to remote repo
 git fetch origin - drops all your local changes and commits, fetch the latest history from the server
 
 git branch -d "branch name" - deletes branch
-git branch -m <new_name> <old_name> - renames branch
-git branch -u <branch1> <branch2> - sets branch1 as upstream to branch2
+git branch -m "new_name" "old_name" - renames branch
+git branch -u "branch1" "branch2" - sets branch1 as upstream to branch2
+
 git remote set-head origin -a - set current branch as head
