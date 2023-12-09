@@ -9,7 +9,7 @@ git add . - adds all modified files to check
 git status - gives status of all files needed to be committed
 
 git commit -m "any message" - commit all staged changes
-git push origin - push all commited changes to remote repo
+git push origin "branch"- push all commited changes to remote repo from specified branch(usually main)
 
 git fetch origin - drops all your local changes and commits, fetch the latest history from the server
 
