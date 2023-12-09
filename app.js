@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb')
-const uri = require('./atlas_uri')
+const uri = require('./atlas_url')
 
-const client = new MongoClient(uri)
+const client = new MongoClient(url)
 const dbname = "MongoPractice"
 
 const connectToDatabase = async () => {
