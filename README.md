@@ -1,6 +1,7 @@
 <p><b> USEFUL COMMANDS <b></p>
 
-git init - create a new local repo (current folder)"\n"
+<pre>
+git init - create a new local repo (current folder)
 npm init -y   -> setup node environment
 
 npm install mongodb - installs mongodb node_modules
@@ -18,3 +19,4 @@ git branch -m "new_name" "old_name" - renames branch
 git branch -u "branch1" "branch2" - sets branch1 as upstream to branch2
 
 git remote set-head origin -a - set current branch as head
+</pre>
