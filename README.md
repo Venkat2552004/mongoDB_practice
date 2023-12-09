@@ -1,6 +1,6 @@
 <p><b> USEFUL COMMANDS <b></p>
 
-git init - create a new local repo (current folder)
+git init - create a new local repo (current folder)"\n"
 npm init -y   -> setup node environment
 
 npm install mongodb - installs mongodb node_modules
